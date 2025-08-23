@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   牛逼:
-    url: "https://zhuzhuzhu.whtjdasha.com/api/v1/client/subscribe?token=b2d80f22bd3db9c87915fa7fc260e4cf&flag=clash.meta"
+    url: "https://apple-bing.sbs/s/3c4da51f4bbba18ddbfec116d8634015"
     type: http
     interval: 86400
     health-check:
